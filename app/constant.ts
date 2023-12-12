@@ -208,11 +208,6 @@ export const DEFAULT_MODELS = [
     available: true,
   },
   {
-    name: "gpt-4-gizmo-g-L2HknCZTC",
-    description: "小说制作器",
-    available: true,
-  },
-  {
     name: "gpt-4-gizmo-g-Nu089W0wg",
     description: "方法论生成器",
     available: true,
