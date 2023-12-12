@@ -40,6 +40,7 @@ export interface LLMUsage {
 
 export interface LLMModel {
   name: string;
+  description: string;
   available: boolean;
 }
 
