@@ -203,11 +203,6 @@ export const DEFAULT_MODELS = [
     available: true,
   },
   {
-    name: "gpt-4-gizmo-g-V2KIUZSj0",
-    description: "关键词协助专家",
-    available: true,
-  },
-  {
     name: "gpt-4-gizmo-g-LpCnTpHvZ",
     description: "色彩助手",
     available: true,
