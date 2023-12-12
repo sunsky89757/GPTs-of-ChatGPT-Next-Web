@@ -99,7 +99,7 @@ export const KnowledgeCutOffDate: Record<string, string> = {
 export const DEFAULT_MODELS = [
   {
     name: "gpt-4",
-    description: "最强模型",
+    description: "gpt-4",
     available: true,
   },
   // {
@@ -124,7 +124,7 @@ export const DEFAULT_MODELS = [
   // },
   {
     name: "gpt-4-1106-preview",
-    description: "A模型",
+    description: "gpt-4-turbo",
     available: true,
   },
   // {
@@ -133,7 +133,7 @@ export const DEFAULT_MODELS = [
   // },
   {
     name: "gpt-3.5-turbo",
-    description: "B模型",
+    description: "gpt-3.5-turbo",
     available: true,
   },
   // {
@@ -156,6 +156,28 @@ export const DEFAULT_MODELS = [
   //   name: "gpt-3.5-turbo-16k-0613",
   //   available: true,
   // },
+  // 下方为GPTs新增模型
+  {
+    name: "gpt-4-gizmo-g-klnwRQk7U",
+    description: "DALL·E绘图",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-UPuGbvUJn",
+    description: "论文润色大师",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-GEzVGowiN",
+    description: "论文写作助手 Pro",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-xaY1J001F",
+    description: "A&B Chat With PDF",
+    available: true,
+  },
+  
 ] as const;
 
 export const CHAT_PAGE_SIZE = 15;
