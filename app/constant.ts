@@ -173,11 +173,105 @@ export const DEFAULT_MODELS = [
     available: true,
   },
   {
-    name: "gpt-4-gizmo-g-xaY1J001F",
-    description: "A&B Chat With PDF",
+    name: "gpt-4-gizmo-g-joNEaBeza",
+    description: "AI新闻通讯GPT",
     available: true,
   },
-  
+  {
+    name: "gpt-4-gizmo-g-5tc5vh3P3",
+    description: "易经机器人",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-CitwvF94s",
+    description: "完美简历",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-pQASTHPAq",
+    description: "历史猫插图师",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-T1xui4tJ3",
+    description: "企业LOGO生成器",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-L2HknCZTC",
+    description: "学术资源ScholarAI",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-V2KIUZSj0",
+    description: "关键词协助专家",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-LpCnTpHvZ",
+    description: "色彩助手",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-L2HknCZTC",
+    description: "小说制作器",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-Nu089W0wg",
+    description: "方法论生成器",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-hesntNTso",
+    description: "妈妈爸爸GPT",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-RuhDS8mbd",
+    description: "GPT商店",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-85Y0gYQuO",
+    description: "创业网站文案",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-evJ22Dnnp",
+    description: "创业公司取名",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-klnwRQk7U",
+    description: "冰霜DALLE3（带参数！）",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-ZQ9Dzykak",
+    description: "股票趋势分析师",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-mCfGq6FWq",
+    description: "全球中文快讯",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-0FgRLpAvT",
+    description: "Youtube视频摘要生成器",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-u0kf5rQm3",
+    description: "市场情绪分析器",
+    available: true,
+  },
+  {
+    name: "gpt-4-gizmo-g-RXKmXYE3q",
+    description: "双人编程",
+    available: true,
+  },
 ] as const;
 
 export const CHAT_PAGE_SIZE = 15;
