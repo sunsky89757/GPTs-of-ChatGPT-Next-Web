@@ -14,7 +14,7 @@ export function collectModelTable(
     (m) =>
       (modelTable[m.name] = {
         ...m,
-        displayName: m.description || m.name,
+        displayName: m.name,
       }),
   );
 
