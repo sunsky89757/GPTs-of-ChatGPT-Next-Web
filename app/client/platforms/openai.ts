@@ -322,6 +322,7 @@ export class ChatGPTApi implements LLMApi {
 
     return chatModels.map((m) => ({
       name: m.id,
+      description: "",
       available: true,
     }));
   }
