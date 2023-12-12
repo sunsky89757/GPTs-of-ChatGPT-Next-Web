@@ -342,7 +342,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: "欢迎使用GPTs of ChatGPT-4，GPTs角色机器人[[查询地址]](https://www.gptacg.com/gpts-store/)，[[文件上传]](https://up.gptacg.com/upload.php)",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
